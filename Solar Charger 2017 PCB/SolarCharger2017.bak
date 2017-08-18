@@ -53,6 +53,16 @@ F 0 "BT1" H 7150 3050 50  0000 L CNN
 F 1 "18650 LiIon Cell" H 7150 2950 50  0000 L CNN
 F 2 "REInnovationFootprint:TH_LiIon_Holder" V 7050 3010 50  0001 C CNN
 F 3 "" V 7050 3010 50  0000 C CNN
+F 4 "~" H 7050 2950 60  0000 C CNN "Notes"
+F 5 "18650 PCB mount holder" H 7050 2950 60  0001 C CNN "Description"
+F 6 "~" H 7050 2950 60  0001 C CNN "Manufacturer"
+F 7 "~" H 7050 2950 60  0001 C CNN "Manufacturer Part No"
+F 8 "eBay" H 7050 2950 60  0001 C CNN "Supplier 1"
+F 9 "http://www.ebay.co.uk/itm/122466718109" H 7050 2950 60  0001 C CNN "Supplier 1 Part No"
+F 10 "0.50" H 7050 2950 60  0001 C CNN "Supplier 1 Cost"
+F 11 "~" H 7050 2950 60  0001 C CNN "Supplier 2"
+F 12 "~" H 7050 2950 60  0001 C CNN "Supplier 2 Part No"
+F 13 "~" H 7050 2950 60  0001 C CNN "Supplier 2 Cost"
 	1    7050 2950
 	1    0    0    -1  
 $EndComp
