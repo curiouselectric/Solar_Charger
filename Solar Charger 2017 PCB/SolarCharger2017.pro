@@ -1,4 +1,4 @@
-update=12/06/2017 15:44:09
+update=13/07/2017 13:11:26
 version=1
 last_client=kicad
 [pcbnew]
@@ -27,7 +27,7 @@ NetIExt=net
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../../../../../../KiCAD/kicad_reinnovation/KiCad My Libraries
 [eeschema/libraries]
 LibName1=SolarCharger2017-rescue
 LibName2=power
