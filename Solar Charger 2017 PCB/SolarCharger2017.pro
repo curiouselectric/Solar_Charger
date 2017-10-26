@@ -1,4 +1,4 @@
-update=13/07/2017 13:11:26
+update=22/10/2017 21:06:23
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,7 +64,7 @@ LibName32=E:/Google Drive/KiCAD/KiCad My Libraries/matts_components
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=SolarCharger2017_OUTPUT/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
