@@ -777,4 +777,34 @@ Connection ~ 4300 5150
 Wire Wire Line
 	4200 5800 4450 5800
 Connection ~ 4200 4900
+$Comp
+L USB_A P7
+U 1 1 5A036CD8
+P 6100 6600
+F 0 "P7" H 6300 6400 50  0000 C CNN
+F 1 "USB_A" H 6050 6800 50  0000 C CNN
+F 2 "Connectors:USB_A" V 6050 6500 50  0001 C CNN
+F 3 "" V 6050 6500 50  0000 C CNN
+	1    6100 6600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5800 6400 5650 6400
+Wire Wire Line
+	5650 6400 5650 5800
+Connection ~ 5650 5800
+Wire Wire Line
+	5550 6050 5550 6700
+Wire Wire Line
+	5550 6700 5800 6700
+Connection ~ 5550 6050
+NoConn ~ 5800 6500
+NoConn ~ 5800 6600
+Wire Wire Line
+	6200 6900 6200 7000
+Wire Wire Line
+	6200 7000 5650 7000
+Wire Wire Line
+	5650 7000 5650 6700
+Connection ~ 5650 6700
 $EndSCHEMATC
