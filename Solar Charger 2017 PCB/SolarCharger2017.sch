@@ -608,7 +608,7 @@ F 1 "5V OUT" V 6150 5050 50  0000 C CNN
 F 2 "REInnovationFootprint:SIL-2_screw_terminal" H 6050 5050 50  0001 C CNN
 F 3 "" H 6050 5050 50  0000 C CNN
 	1    6050 5050
-	1    0    0    1   
+	1    0    0    -1  
 $EndComp
 Wire Wire Line
 	5450 4900 5450 5000
@@ -724,17 +724,6 @@ Wire Wire Line
 	5800 6050 5800 5100
 Connection ~ 5800 5100
 $Comp
-L CONN_01X02 P6
-U 1 1 593EA27A
-P 6050 5450
-F 0 "P6" H 6050 5600 50  0000 C CNN
-F 1 "5V OUT" V 6150 5450 50  0000 C CNN
-F 2 "REInnovationFootprint:SIL-2_screw_terminal" H 6050 5450 50  0001 C CNN
-F 3 "" H 6050 5450 50  0000 C CNN
-	1    6050 5450
-	1    0    0    1   
-$EndComp
-$Comp
 L CONN_01X02 P5
 U 1 1 593EA2E6
 P 9050 3600
@@ -755,12 +744,6 @@ Wire Wire Line
 Wire Wire Line
 	8750 3650 8750 3100
 Connection ~ 8750 3100
-Wire Wire Line
-	5850 5400 5750 5400
-Connection ~ 5750 5400
-Wire Wire Line
-	5850 5500 5800 5500
-Connection ~ 5800 5500
 Wire Wire Line
 	4450 4900 4200 4900
 Wire Wire Line
